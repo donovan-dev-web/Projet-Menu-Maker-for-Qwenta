@@ -181,7 +181,7 @@ Une veille technologique a été mise en place afin d’assurer des choix techni
 ## 🔗 Liens utiles
 
 * 🎨 Maquette : **[Lien à ajouter]**
-* 📋 Kanban Notion : **[Lien à ajouter]**
+* 📋 Kanban Notion : [Liens Kaban](https://www.notion.so/326733d8ed4880be9109c1fc8ede5ea3?v=326733d8ed48807196b3000cf61ba4cc&source=copy_link)
 * 📡 Feedly : **[Lien à ajouter]**
 
 ---
