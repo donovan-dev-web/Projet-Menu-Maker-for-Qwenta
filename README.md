@@ -97,7 +97,7 @@ Une interface web intuitive permettant aux utilisateurs de :
 📊 <a href="./docs/03-project-management/organisation.md">Organisation du projet</a>
 🧩 <a href="./docs/03-project-management/kanban-export.pdf">Kanban</a>
 🎤 <a href="./docs/04-presentation/presentation.pdf">Présentation</a>
-🔎 <a href="./docs/05-watch/veille.md">Veille technologique</a>
+🔎 <a href="./docs/05-watch/Screenshot 2026-03-25 at 09-48-02 Dev web General.png">Veille technologique</a>
 
 ---
 
